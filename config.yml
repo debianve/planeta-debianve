@@ -1,5 +1,8 @@
 # Configuración del planeta.
 
+# NOTA: Deben tener cuidado con la formación de este archivo de configuración, una mala sintaxis 
+# hará que se reviente el planeta. Gracias totales. Apostols.
+
 opciones:
   # Debug activado o no:
   debug:	false
