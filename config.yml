@@ -60,7 +60,7 @@ feeds:
     avatar: planeta.png
     name:   José Parrella
   ecrespo:
-    url:    http://feeds.feedburner.com/LaLibertadDeDesarrollarNoTienePrecio
+    url:    https://ecrespo.github.io/categories/debian.xml
     email:  ecrespo@gmail.com
     avatar: planeta.png
     name:   Ernesto Crespo
